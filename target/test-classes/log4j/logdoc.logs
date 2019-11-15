@@ -1,0 +1,86 @@
+2019-11-15 10:52:14 INFO  LogReporter:23 - STEP 1: Starting browser :CHROME
+2019-11-15 10:52:14 INFO  LogReporter:23 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-15 10:52:14 INFO  LogReporter:23 - STEP 3: Validate all the Menu
+2019-11-15 10:52:15 INFO  LogReporter:29 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-15 10:52:15 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-15 10:54:36 INFO  LogReporter:23 - STEP 1: Starting browser :CHROME
+2019-11-15 10:54:36 INFO  LogReporter:23 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-15 10:54:36 INFO  LogReporter:23 - STEP 3: Validate all the Menu
+2019-11-15 10:54:40 INFO  LogReporter:29 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-15 10:54:40 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-15 10:56:47 INFO  LogReporter:23 - STEP 1: Starting browser :CHROME
+2019-11-15 10:56:47 INFO  LogReporter:23 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-15 10:56:47 INFO  LogReporter:23 - STEP 3: Validate all the Menu
+2019-11-15 10:56:48 INFO  LogReporter:29 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-15 10:56:48 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-15 10:58:15 INFO  LogReporter:23 - STEP 1: Starting browser :CHROME
+2019-11-15 10:58:15 INFO  LogReporter:23 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-15 10:58:15 INFO  LogReporter:23 - STEP 3: Validate all the Menu
+2019-11-15 10:58:16 INFO  LogReporter:29 - STEP 2: URL is loaedhttp://tutorialsninja.com/demo/
+2019-11-15 10:58:16 INFO  LogReporter:23 - STEP 3: Validating the Home Page Title
+2019-11-15 10:58:16 INFO  LogReporter:23 - Actual Value :The Ninja Store and Expected :The Ninja Store is validated successfully
+2019-11-15 10:58:16 INFO  LogReporter:23 - STEP 4: Changing the currency to Dollar
+2019-11-15 10:58:16 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-15 10:58:17 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Hot Sauces is validated successfully
+2019-11-15 10:58:18 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Merchandise is validated successfully
+2019-11-15 10:58:18 INFO  LogReporter:23 - Product name iphone is entered
+2019-11-15 10:58:18 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-15 10:58:20 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Clearance and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Clearance is validated successfully
+2019-11-15 10:58:20 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce and Expected :Broadleaf Commerce Demo Store - Heat Clinic - New to Hot Sauce is validated successfully
+2019-11-15 10:58:22 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - FAQ and Expected :Broadleaf Commerce Demo Store - Heat Clinic - FAQ is validated successfully
+2019-11-15 10:58:22 INFO  LogReporter:23 - STEP 4: Mouse Over Merchandise and click Men
+2019-11-15 10:58:23 INFO  LogReporter:23 - STEP 5: Verify the Text 'Viewing Mens'
+2019-11-15 10:58:24 INFO  LogReporter:23 - Actual Value :Broadleaf Commerce Demo Store - Heat Clinic - Mens and Expected :Broadleaf Commerce Demo Store - Heat Clinic - Mens is validated successfully
+2019-11-15 10:58:24 INFO  LogReporter:23 - Actual Value :Viewing Mens (1 - 3 of 3) and Expected :Viewing Mens (1 - 3 of 3) is validated successfully
+2019-11-15 10:58:24 INFO  LogReporter:23 - STEP 6: Click the Buy now of Hawt Like a Habanero Shirt (Men's)
+2019-11-15 10:58:25 INFO  LogReporter:23 - STEP 7: click the Cart
+2019-11-15 10:58:26 INFO  LogReporter:23 - STEP 8: Validation of the product
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value :Hawt Like a Habanero Shirt and Expected :Hawt Like a Habanero Shirt is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value : M and Expected : M is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value : Ajith and Expected : Ajith is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value : Red and Expected : Red is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-15 10:58:26 INFO  LogReporter:23 - STEP 9: Increase the Qty count
+2019-11-15 10:58:27 INFO  LogReporter:23 - Product is selected
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-15 10:58:27 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 10: Update the  Cart
+2019-11-15 10:58:27 INFO  LogReporter:23 - Actual Value :123.20 and Expected :123.20 is validated successfully
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-15 10:58:27 INFO  LogReporter:23 - Actual Value :101. and Expected :101. is validated successfully
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-15 10:58:27 INFO  LogReporter:23 - Actual Value :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. and Expected :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. is validated successfully
+2019-11-15 10:58:27 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-15 10:58:27 INFO  LogReporter:23 - Actual Value :14.99 and Expected :14.99 is validated successfully
+2019-11-15 10:58:28 INFO  LogReporter:23 - Actual Value :44.97 and Expected :44.97 is validated successfully
+2019-11-15 10:58:28 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-15 10:58:28 INFO  LogReporter:23 - STEP 5: Searching the Product
+2019-11-15 10:58:29 INFO  LogReporter:23 - Product name mac book air is entered
+2019-11-15 10:58:29 INFO  LogReporter:23 - STEP 6: Select the Product
+2019-11-15 10:58:32 INFO  LogReporter:23 - Product is selected
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 7: Validate the the  Product Availability
+2019-11-15 10:58:32 INFO  LogReporter:23 - Actual Value : In Stock and Expected : In Stock is validated successfully
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 8: Validate the the  Product Price
+2019-11-15 10:58:32 INFO  LogReporter:23 - Actual Value :1,202.00 and Expected :1,202.00 is validated successfully
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 9: Validate the the  Product Ex Tax
+2019-11-15 10:58:32 INFO  LogReporter:23 - Actual Value :1,000. and Expected :1,000. is validated successfully
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 10: Validate the the  Product Description
+2019-11-15 10:58:32 INFO  LogReporter:23 - Actual Value :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. and Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. is validated successfully
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 11: Change the Quantity
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 12: Click Add to Cart Button
+2019-11-15 10:58:32 INFO  LogReporter:23 - STEP 13: Click the Cart link
+2019-11-15 10:58:34 INFO  LogReporter:23 - Successfully navigate to the cart
+2019-11-15 10:58:34 INFO  LogReporter:23 - STEP 14: Validate the cart Product
+2019-11-15 10:58:34 INFO  LogReporter:23 - Actual Value :iPhone and Expected :iPhone is validated successfully
+2019-11-15 10:58:34 INFO  LogReporter:23 - Actual Value :MacBook Air and Expected :MacBook Air is validated successfully
+2019-11-15 10:58:34 INFO  LogReporter:23 - STEP 15: Validate the Grand Total Before
+2019-11-15 10:58:34 INFO  LogReporter:23 - Actual Value :3,852.40 and Expected :3,852.40 is validated successfully
+2019-11-15 10:58:34 INFO  LogReporter:23 - STEP 16: Remove the Product From the Cart
+2019-11-15 10:58:34 INFO  LogReporter:23 - Product is Removed
+2019-11-15 10:58:34 INFO  LogReporter:23 - STEP 17: Validate the Grand Total After
+2019-11-15 10:59:04 INFO  LogReporter:23 - Actual Value :3,606.00 and Expected :3,606.00 is validated successfully
+2019-11-15 15:10:36 INFO  LogReporter:23 - STEP 1: Starting browser :CHROME
+2019-11-15 15:10:36 INFO  LogReporter:23 - STEP 2: URL is loaedhttp://10.10.10.232:8080/
+2019-11-15 15:10:36 INFO  LogReporter:23 - STEP 3: Validate all the Menu

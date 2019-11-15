@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="20" name="Failed suite [mysuite]" parallel="tests">
+  <test thread-count="20" name="Test validate CHROMEcom.atmecs.mysqlAssessment.testscripts.TestVerifyHeatClinic(failed)" parallel="tests">
+    <parameter name="Browser" value="MY,CHROME"/>
+    <classes>
+      <class name="com.atmecs.mysqlAssessment.testscripts.TestVerifyHeatClinic">
+        <methods>
+          <include name="webURLLoader"/>
+          <include name="verifyHeatClinic"/>
+          <include name="baseSetup"/>
+          <include name="endDriver"/>
+        </methods>
+      </class> <!-- com.atmecs.mysqlAssessment.testscripts.TestVerifyHeatClinic -->
+    </classes>
+  </test> <!-- Test validate CHROMEcom.atmecs.mysqlAssessment.testscripts.TestVerifyHeatClinic(failed) -->
+</suite> <!-- Failed suite [mysuite] -->
